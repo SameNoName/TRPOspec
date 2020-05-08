@@ -1,4 +1,4 @@
 # TRPOspec
 test
 test2
-E5 I understan how its work!!!!!!!!!!
+E5 I understand how its work!!!!!!!!!!
